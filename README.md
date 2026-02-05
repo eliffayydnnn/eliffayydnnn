@@ -1,19 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hey! 👋</h1>
 
-<!--
-**eliffayydnnn/eliffayydnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Hi, I'm <b>Elif Aydın</b> <br/>
+  👩‍💻 Software Engineering Student <br/>
+  🚀 Improving myself in software development
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/elif-aydın-69a540275" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Elif%20Aydın-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  📫 Reach me at: 
+  <a href="mailto:eliffayydnnn15@gmail.com">eliffayydnnn15@gmail.com</a>
+</p>
+
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
