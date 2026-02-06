@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  📫 Reach me at: 
+  📫 Reach me at:: 
   <a href="mailto:eliffayydnnn15@gmail.com">eliffayydnnn15@gmail.com</a>
 </p>
 
