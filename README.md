@@ -1,3 +1,11 @@
+<div align="center">
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Elif%20Aydın&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+
+</div>
+
+
+
 <h3 align="center">
 
 🌸 Full Stack Developer | .NET Backend Developer
