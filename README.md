@@ -33,9 +33,8 @@
 
 - 👋 Merhaba, ben **Elif Aydın**. Modern web teknolojileriyle ölçeklenebilir ve kullanıcı odaklı uygulamalar geliştirmeye odaklanan bir **Full Stack Developer**'ım.
 - 💻 **.NET ekosistemi ve C#** ile backend geliştirme üzerine yoğunlaşıyorum, aynı zamanda modern frontend teknolojileriyle uçtan uca çözümler geliştiriyorum.
-- 🚀 **ASP.NET Core, Entity Framework Core ve SQL Server** kullanarak kurumsal uygulamalar geliştiriyorum.
-- 🤖 **Yapay Zeka (AI), LLM ve akıllı uygulamalar** üzerine araştırmalar yapıyor ve projeler geliştiriyorum.
-- 🎓 **Yazılım Mühendisliği mezunuyum** ve backend geliştirme alanında kendimi sürekli geliştiriyorum.
+- 🤖 **Yapay Zeka (AI)** üzerine araştırmalar yapıyor ve projeler geliştiriyorum.
+- 🎓 **Yazılım Mühendisliği mezunuyum** ve full stack geliştirme alanında kendimi sürekli geliştiriyorum.
 
 ---
 
