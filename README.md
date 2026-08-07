@@ -1,10 +1,10 @@
-<h1 align="center">Hey! 👋</h1>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Elif%20Aydın&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+</div>
 
-<p align="center">
-  Hi, I'm <b>Elif Aydın</b> <br/>
-  👩‍💻 Software Engineering Student <br/>
-  🚀 Improving myself in software development
-</p>
+<h3 align="center">
+ Full Stack Developer
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elif-aydın-69a540275" target="_blank">
