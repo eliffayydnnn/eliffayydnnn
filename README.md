@@ -7,11 +7,12 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/elif-aydın-69a540275" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Elif%20Aydın-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/elif-ayd%C4%B1n-69a540275/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Elif%20Aydın-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:eliffayydnnn15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-eliffayydnnn15%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+  <a href="mailto:elifaydin@example.com">
+    <img src="https://img.shields.io/badge/Email-elifaydin@example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 <h2 align="center">Languages and Tools</h2>
