@@ -3,20 +3,17 @@
 </div>
 
 <h3 align="center">
- Full Stack Developer
+🌸 Full Stack Developer
 </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elif-aydın-69a540275" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Elif%20Aydın-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="mailto:eliffayydnnn15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-eliffayydnnn15%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
-
-<p align="center">
-  📫 Reach me at: 
-  <a href="mailto:eliffayydnnn15@gmail.com">eliffayydnnn15@gmail.com</a>
-</p>
-
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
