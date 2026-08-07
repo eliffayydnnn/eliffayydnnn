@@ -120,21 +120,4 @@
 
 ---
 
-## 📊 GitHub İstatistikleri
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical"/>
-
-</p>
-
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KULLANICI_ADIN&theme=github-compact"/>
-
-</p>
