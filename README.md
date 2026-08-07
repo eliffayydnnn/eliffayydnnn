@@ -1,10 +1,3 @@
-<div align="center">
-
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Elif%20Aydın&fontSize=70&fontColor=ffffff&animation=fadeIn" />
-
-</div>
-
-
 <h3 align="center">
 
 🌸 Full Stack Developer | .NET Backend Developer
@@ -19,8 +12,8 @@
   </a>
 
 
-  <a href="mailto:elifaydin@example.com">
-    <img src="https://img.shields.io/badge/Email-elifaydin@example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:eliffayydnnn15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-eliffayydnnn15%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
 </p>
@@ -34,12 +27,11 @@
 - 💻 **.NET ekosistemi ve C#** ile backend geliştirme üzerine yoğunlaşıyorum, aynı zamanda modern frontend teknolojileriyle uçtan uca çözümler geliştiriyorum.
 - 🚀 **ASP.NET Core, Entity Framework Core ve SQL Server** kullanarak kurumsal uygulamalar geliştiriyorum.
 - 🤖 **Yapay Zeka (AI), LLM ve akıllı uygulamalar** üzerine araştırmalar yapıyor ve projeler geliştiriyorum.
-- 🎓 Yazılım Mühendisliği mezunuyum ve kendimi backend geliştirme alanında sürekli geliştiriyorum.
+- 🎓 **Yazılım Mühendisliği mezunuyum** ve backend geliştirme alanında kendimi sürekli geliştiriyorum.
 
 ---
 
 ## 🛠️ Teknolojiler ve Araçlar
-
 
 ### Backend
 
@@ -92,7 +84,7 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
@@ -113,11 +105,4 @@
 
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-
 </p>
-
-
----
-
-
